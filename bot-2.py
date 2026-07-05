@@ -27,10 +27,10 @@ from aiogram.types import Message
 # =========================================================
 
 # Tokenni shu yerga qo'ying (yoki Render Environment Variable: BOT_TOKEN)
-BOT_TOKEN = os.getenv("BOT_TOKEN", "SIZNING_BOT_TOKEN_INGIZ")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8961204603:AAETpZdTf4B6OHQKIHVYGChuj5LMqXfivrE")
 
 # O'z Telegram ID'ingizni shu yerga yozing (yoki Render: ADMIN_IDS=111,222)
-ADMIN_IDS = [int(x) for x in os.getenv("ADMIN_IDS", "123456789").split(",") if x.strip()]
+ADMIN_IDS = [int(x) for x in os.getenv("ADMIN_IDS", "8856763799").split(",") if x.strip()]
 
 # Render bepul Web Service portni shu orqali beradi
 PORT = int(os.getenv("PORT", "10000"))
