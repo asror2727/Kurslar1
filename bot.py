@@ -1,4 +1,4 @@
-# bot.py
+#bot.py
 # -*- coding: utf-8 -*-
 """
 Valyuta konvertatsiya boti — bitta faylda, ishga tayyor.
